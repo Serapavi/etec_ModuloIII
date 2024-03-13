@@ -4,7 +4,7 @@ public class agenda5V1 {
 
     public static void main(String[] args) {
 
-        //JOptionPane.showMessageDialog(null, "Ola Mundo", "Programa do Sergio", JOptionPane.INFORMATION_MESSAGE);
+        JOptionPane.showMessageDialog(null, "Ola Mundo", "Programa do Sergio", JOptionPane.INFORMATION_MESSAGE);
         
         /*  Revisão
         //Recebendo valores do usuario
